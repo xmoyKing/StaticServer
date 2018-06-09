@@ -1,0 +1,20 @@
+{
+  "name": "staticserver",
+  "version": "1.0.0",
+  "description": "静态服务器",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server -a 127.0.0.1 -p 8427",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmoyKing/StaticServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xmoyKing/StaticServer/issues"
+  },
+  "homepage": "https://github.com/xmoyKing/StaticServer#readme"
+}
